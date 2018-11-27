@@ -1,0 +1,12 @@
+ a 3
+ b 2
+ c 1
+ varx 2
+ vara 2
+ vary 2
+ varz 5 (4,2)
+ varb 2 (1,2)
+ A 5 (1,3) (4,5)
+ B 3 (2,1)
+ d 56
+ CARR 1 (0,1)
